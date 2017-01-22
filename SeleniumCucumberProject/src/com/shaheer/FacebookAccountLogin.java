@@ -23,7 +23,7 @@ public class FacebookAccountLogin {
 		driver = new FirefoxDriver(profile);
 	}
 	
-	//Locators used to login into the facebook and taking the screenshot
+	//Locators used to login into the facebook and taking the screenshot..
 	public static void main(String args[])throws Exception {
 		FacebookAccountLogin fb=new FacebookAccountLogin();
 		fb.settingTheProperties();
